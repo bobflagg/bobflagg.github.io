@@ -1,4 +1,25 @@
-name: Hank Quinlan, Horrible Cop
+# Site settings
+title: Let us Calculate!
+description: "Random Thoughts on Mathematics and Machine Learning"
+url: "https://bobflagg.github.io"
+
+name: Bob Flagg, Data Scientist and Mathematician
 markdown: kramdown
 
-permalink: /blog/:year/:month/:day/:title
+
+# Secondary Parameters
+header-img: img/home-bg.jpg
+headercolor: "#504442"
+
+# Jekyll Settings
+
+defaults:
+  -
+    scope:
+      path: "projects"
+      type: "pages"
+    values:
+      layout: "project"
+      header-img: "img/home-bg.jpg"
+
+
