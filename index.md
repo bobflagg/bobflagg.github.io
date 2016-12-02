@@ -12,8 +12,8 @@ work I've done to gain a deeper understanding of this fascinating topic.
 
 ![Graphical Model](https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-01/fc024fbdc59c3b5e708268b29e00cebaf9593875/8-Figure4-1.png)
 
-The first resource I'd like to highlight is the tutorial paper
-[Gibbs Sampling for the Uninitiated](https://www.umiacs.umd.edu/~resnik/pubs/LAMP-TR-153.pdf)
+The first resource I'd like to highlight is the tutorial 
+[paper](https://www.umiacs.umd.edu/~resnik/pubs/LAMP-TR-153.pdf), _Gibbs Sampling for the Uninitiated_,
 by Resnik and Hardisty, which is a masterpiece of exposition.  Their main example provides an amazingly 
 clear description of how to build a Gibbs sampler for the very simple Naı̈ve Bayes probabilistic model. 
 I'll share an [implementation](https://nbviewer.jupyter.org/github/bobflagg/gibbs-sampling-for-the-uninitiated/blob/master/Gibbs-sampling-for-the-Uninitiated.ipynb) of Gibbs sampling in Python
