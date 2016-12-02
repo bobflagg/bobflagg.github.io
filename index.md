@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Machine learning is a vast field under rapid development.
+Machine learning is a vast field advancing at an alarming rate.
 I'll be using this site to highlight some of the resources 
 I found useful in my struggle to keep up and share some 
 work I've done to gain a deeper understanding of this fascinating topic. 
