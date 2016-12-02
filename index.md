@@ -1,5 +1,6 @@
 ---
 layout: page
+description: "... without further ado, to see who is right."
 ---
 
 Machine learning is a vast field advancing at an alarming rate.
