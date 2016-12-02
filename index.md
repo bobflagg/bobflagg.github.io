@@ -17,7 +17,7 @@ The first resource I'd like to highlight is the tutorial
 by Resnik and Hardisty, which is a masterpiece of exposition.  Their main example provides an amazingly 
 clear description of how to build a Gibbs sampler for the very simple Naı̈ve Bayes probabilistic model. 
 I'll share an [implementation](https://nbviewer.jupyter.org/github/bobflagg/gibbs-sampling-for-the-uninitiated/blob/master/Gibbs-sampling-for-the-Uninitiated.ipynb) of Gibbs sampling in Python
-and an [illutration](https://nbviewer.jupyter.org/github/bobflagg/gibbs-sampling-for-the-uninitiated/blob/master/a-gibbs-sampler-for-detecting-spam.ipynb) of how to detect spam with a the sampler.
+and an [illustration](https://nbviewer.jupyter.org/github/bobflagg/gibbs-sampling-for-the-uninitiated/blob/master/a-gibbs-sampler-for-detecting-spam.ipynb) of how to detect spam with a the sampler.
 Eventually, I'll demonstrate the power of Cython by optimizing the sampler to gain a couple of orders of magnitude in performance.
 
 ## "Let us calculate!"
